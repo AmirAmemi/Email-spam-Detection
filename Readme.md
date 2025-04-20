@@ -86,7 +86,7 @@ jupyter notebook spam_detection.ipynb
 - [ ] Deploy as a web app using Streamlit or Flask
 - [ ] Add unit tests and modular scripts
 
-## 📝 License
+## 📝 License  
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
